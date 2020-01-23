@@ -1,0 +1,5 @@
+The cities latitude vs the temp exhibits a log curve. As the latitude surpasses zero you can see the higher the latitude the lower the temperature (f). This makes sense because as we travel away from the equator the temperature lowers. 
+
+The correlation between latitude and cloudiness is very weak. This makes sense because position in latitude does not have a strong relationship to how many clouds are in the sky.
+
+Northern Hemisphere latitude vs temperature seemed to show the strongest negative corolation. This makes sense because as you travel away from the equator the temperature decreases. 
