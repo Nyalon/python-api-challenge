@@ -2,7 +2,7 @@
 
 My objective was to compile 500 different cities across the globe, and compare tempurature change to find the perfect vacation spot. Using a weather api, google gmaps, python, pandas, and matplotlib. I was able to create a few cool visualizations and regression models.
 
-####Api & Libraries used
+#### Api & Libraries used
 - https://openweathermap.org/api
 - https://pypi.org/project/citipy/
 
